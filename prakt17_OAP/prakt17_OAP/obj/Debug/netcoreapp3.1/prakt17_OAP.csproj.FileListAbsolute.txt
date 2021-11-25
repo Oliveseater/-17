@@ -1,0 +1,14 @@
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\bin\Debug\netcoreapp3.1\prakt17_OAP.exe
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\bin\Debug\netcoreapp3.1\prakt17_OAP.deps.json
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\bin\Debug\netcoreapp3.1\prakt17_OAP.runtimeconfig.json
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\bin\Debug\netcoreapp3.1\prakt17_OAP.runtimeconfig.dev.json
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\bin\Debug\netcoreapp3.1\prakt17_OAP.dll
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\bin\Debug\netcoreapp3.1\prakt17_OAP.pdb
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.csproj.AssemblyReference.cache
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.AssemblyInfoInputs.cache
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.AssemblyInfo.cs
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.csproj.CoreCompileInputs.cache
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.dll
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.pdb
+C:\Users\n3574\source\repos\prakt17_OAP\prakt17_OAP\obj\Debug\netcoreapp3.1\prakt17_OAP.genruntimeconfig.cache

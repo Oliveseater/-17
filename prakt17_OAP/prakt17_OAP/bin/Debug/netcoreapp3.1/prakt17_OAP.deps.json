@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prakt17_OAP/1.0.0": {
+        "runtime": {
+          "prakt17_OAP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prakt17_OAP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
