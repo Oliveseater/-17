@@ -16,13 +16,15 @@ namespace prakt17_OAP_4
             contry.Add(new Contry() { nameContry = "Франция", population = 65790152});
             contry.Add(new Contry() { nameContry = "Индия", population = 1408044253});
             contry.Add(new Contry() { nameContry = "Египет", population = 105838455});
+
             //длина строки
             var selectOrder = contry.OrderBy(x => x.nameContry.Length);
             foreach (var x in selectOrder)
                 Console.WriteLine(x.nameContry + " - " + x.population);
             Console.WriteLine();
+
             //по численности от числа n, в порядке возрастания
-            var selectOrderPopulation = contry.Where(a => a.population > 104000000).OrderBy(x => x.population);
+            var selectOrderPopulation = contry.Where(a => a.population > 104000000).OrderBy(x => x.nameContry);
             foreach (var x in selectOrderPopulation)
                 Console.WriteLine(x.nameContry + " - " + x.population);
         }
